@@ -1,0 +1,77 @@
+.container {
+  width: 90%;
+  margin: auto;
+  padding-top: 8px;
+}
+
+.page-header {
+  margin: auto;
+  text-align: center;
+  background-color: #606363;
+}
+
+.img {
+  height: 500px;
+  background-color: #D0D5D6;
+}
+
+h1 {
+  font-size: 5em;
+  font-weight: bold;
+  font-family: 'Suranna', serif;
+}
+
+h2 {
+  font-size: 3.7em;
+  font-family: 'Margarine', cursive;
+  font-height: 1.5em;
+}
+
+p {
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
+.img {
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+.img img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.quote {
+  height: 500px;
+  float: left;
+  text-align: center;
+  background-color: #D0D5D6;
+}
+
+.article {
+  background-color: #D0D5D6;
+  height: ;
+  margin-top: 12px;
+}
+
+.article1 {
+  height: 390px;
+  padding: 10px;
+}
+
+a {
+  color: #606363;
+}
+
+.footer {
+  height: 60px;
+  background-color: #606363;
+  margin-top: 10px;
+  text-align: center;
+}
